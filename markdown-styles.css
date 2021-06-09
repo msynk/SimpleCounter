@@ -45,6 +45,7 @@ small {
 
 p {
 	margin-top: .75rem;
+	color: blue !important;
 }
 
 hr {
