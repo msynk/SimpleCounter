@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" type="text/css" media="all" href="markdown-styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/markdown-styles.css" />
 
 <img  width="100%"  src="/images/blazor-tutorial.png" />
 
